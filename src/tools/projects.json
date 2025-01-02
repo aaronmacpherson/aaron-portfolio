@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Weather Reporter",
+        "description": "Client side programming school project. This application allows users to see the temperature,visibility, humidity, air pressure, and wind speed of the currently selected city from the drop-down. It integrates openweathermaps api for data fetching and the weather-icons CSS library for the icons.",
+        "preview": {
+            "src": "/images/weather-reporter.jpg",
+            "alt": "weather reporter preview image"
+        },
+        "demo": "#",
+        "techStack": [
+            {
+                "name": "html5",
+                "src": "/images/html5.png"
+            },
+            {
+                "name": "Javascript",
+                "src": "/images/javascript.png"
+            },
+            {
+                "name": "sass",
+                "src": "/images/sass.png"
+            }
+        ]
+    },
+    {
+        "name": "Product Reviewer",
+        "description": "Web application programming school project. Users can submit a product review with a star rating, their name, and a comment. Data is saved to a MySQL database and displayed to the user when submitted.",
+        "preview": {
+            "src": "/images/product-review.jpg",
+            "alt": "product review preview image"
+        },
+        "demo": "#",
+        "techStack": [
+            {
+                "name": "dotnet core",
+                "src": "/images/asp.png"
+            },
+            {
+                "name": "bootstrap",
+                "src": "/images/bootstrap.png"
+            },
+            {
+                "name": "mysql",
+                "src": "/images/mysql.png"
+            }
+        ]
+    },
+    {
+        "name": "Bank Simulation",
+        "description": "Introduction to object oriented programming  school project. The user is able to create either a savings account or an air miles account. They can then add transactions via either deposits or withdrawals as well as view already existing transactions. This application was implemented using MigLayout and the MVC design pattern.",
+        "preview": {
+            "src": "/images/bank-simulation.jpg",
+            "alt": "bank simulation preview image"
+        },
+        "demo": "#",
+        "techStack": [
+            {
+                "name": "java",
+                "src": "/images/java.png"
+            }
+        ]
+    }
+]
