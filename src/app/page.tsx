@@ -1,9 +1,19 @@
-export default function Home() {
+import About from "@/components/About";
+import Footer from "@/components/Footer";
+import Home from "@/components/Home";
+import Projects from "@/components/Projects";
+import { getProjects } from "@/tools/DataManager";
+
+export default async function Content() {
+  const projects = await getProjects();
 
   return (
-    <div className="text-blue-400 font-bold text-xl p-4">
-      Hello World!
-    </div>
+    <>
+      <Home />
+      <About />
+      <Projects projects={projects} />
+      <Footer />
+    </>
   );
   
 }
