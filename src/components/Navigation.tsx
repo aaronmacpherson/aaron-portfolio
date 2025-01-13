@@ -13,18 +13,18 @@ export default function Navigation() {
                     </a>
                 </li>
                 <li>
-                    <a className="flex items-center justify-center md:w-full p-4 text-subText hover:text-black" href="#projects">
-                        Projects
+                    <a className="flex items-center justify-center md:w-full p-4 text-subText hover:text-black" href="#skills">
+                        Skills
                     </a>
                 </li>
                 <li>
-                    <a className="flex items-center justify-center md:w-full p-4 text-subText hover:text-black" href="#experience">
-                        Experience
+                    <a className="flex items-center justify-center md:w-full p-4 text-subText hover:text-black" href="#web-projects">
+                        Web Projects
                     </a>
                 </li>
                 <li>
-                    <a className="flex items-center justify-center md:w-full p-4 text-subText hover:text-black" href="#education">
-                        Education
+                    <a className="flex items-center justify-center md:w-full p-4 text-subText hover:text-black" href="#other-projects">
+                        Other Projects
                     </a>
                 </li>
             </ul>
