@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import "@fortawesome/fontawesome-free/css/fontawesome.css";
+import "@fortawesome/fontawesome-free/css/solid.css";
 import "./globals.css";
 
 import Navigation from "@/components/Navigation";
