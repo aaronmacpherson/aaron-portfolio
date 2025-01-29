@@ -7,18 +7,16 @@
             "alt": "weather reporter preview image"
         },
         "demo": "#",
+        "source": "#",
         "techStack": [
             {
-                "name": "html5",
-                "src": "/images/html5.png"
+                "name": "HTML5"
             },
             {
-                "name": "Javascript",
-                "src": "/images/javascript.png"
+                "name": "JavaScript"
             },
             {
-                "name": "sass",
-                "src": "/images/sass.png"
+                "name": "SASS"
             }
         ]
     },
@@ -30,33 +28,52 @@
             "alt": "product review preview image"
         },
         "demo": "#",
+        "source": "#",
         "techStack": [
             {
-                "name": "dotnet core",
-                "src": "/images/asp.png"
+                "name": "ASP.NET"
             },
             {
-                "name": "bootstrap",
-                "src": "/images/bootstrap.png"
+                "name": "Bootstrap"
             },
             {
-                "name": "mysql",
-                "src": "/images/mysql.png"
+                "name": "MySQL"
+            }
+        ]
+    },
+    {
+        "name": "Technology Roster",
+        "description": "The final project of the Full-stack programming course. This application uses a RESTful web api to allow users to add / edit / delete both course and technology information from a MongoDB database.",
+        "preview": {
+            "src": "/images/technology-roster.png",
+            "alt": "technology roster preview image"
+        },
+        "demo": "#",
+        "source": "#",
+        "techStack": [
+            {
+                "name": "Next.js"
+            },
+            {
+                "name": "Tailwind"
+            },
+            {
+                "name": "MongoDB"
             }
         ]
     },
     {
         "name": "Bank Simulation",
-        "description": "Introduction to object oriented programming  school project. The user is able to create either a savings account or an air miles account. They can then add transactions via either deposits or withdrawals as well as view already existing transactions. This application was implemented using MigLayout and the MVC design pattern.",
+        "description": "Introduction to object oriented programming school project. The user is able to create either a savings account or an air miles account. They can then add transactions via either deposits or withdrawals as well as view already existing transactions. This application was implemented using MigLayout and the MVC design pattern.",
         "preview": {
             "src": "/images/bank-simulation.jpg",
             "alt": "bank simulation preview image"
         },
         "demo": "#",
+        "source": "#",
         "techStack": [
             {
-                "name": "java",
-                "src": "/images/java.png"
+                "name": "Java"
             }
         ]
     }

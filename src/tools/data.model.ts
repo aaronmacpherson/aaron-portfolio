@@ -3,6 +3,7 @@ export interface Project {
     description: string;
     preview: Preview;
     demo: string;
+    source: string;
     techStack: TechStack[];
 }
 
