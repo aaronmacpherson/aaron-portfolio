@@ -8,7 +8,7 @@ export default function Footer() {
                     <p className="text-subText text-sm">Aaron MacPherson &#169;2024</p>
                 </div>
                 <a className="flex items-center justify-center mt-4 sm:mt-0 w-[40px] h-[50px] sm:w-[50px] sm:h-[60px] bg-accent rounded hover:bg-accent/90" href="#">
-                <span className="text-2xl font-bold">&#8593;</span>
+                    <i className="fa-solid fa-chevron-up text-2xl font-bold"></i>
                 </a>
             </footer>
         </>
