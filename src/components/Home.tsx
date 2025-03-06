@@ -4,7 +4,7 @@ export default function Home() {
     return (
         <>
         <section id="home">
-            <div className="flex flex-col absolute justify-center items-center px-10 h-[629px] w-screen bg-center bg-cover bg-no-repeat bg-black/50">
+            <div className="flex flex-col absolute justify-center items-center px-10 h-[629px] bg-center bg-cover bg-no-repeat bg-black/50">
                 <p className="text-white text-base sm:text-2xl md:text-4xl md:w-3/4 font-bold">
                     Hi&#44; I&#39;m <span className="text-accent">Aaron</span>. I&#39;m an aspiring full-stack web developer located in Nova Scotia. I&#39;m currently pursuing any opportunities that will put my development skills to the test.
                 </p>
